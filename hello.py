@@ -1,9 +1,6 @@
 hello.py
 Welcome to you!
 Thank you!
-hello.py
-Welcome to meizhou!
-Thank you!
-hello.py
-Welcome to JiaYing!
-Thank you!
+我做了修改！！
+我的第一次修改
+我的第一次修改
